@@ -1,0 +1,5 @@
+app/.gradle
+app/.idea
+app/build
+.DS_Store
+app/gradle
